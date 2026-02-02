@@ -1,4 +1,5 @@
 # Manufacturing Monitoring System
+<center> <img src="https://github.com/SmartFactory-Team/Documentation/blob/main/LogoTeam.png"> </center>
 
 ## Team Name
 """Smart Factory Team"""
