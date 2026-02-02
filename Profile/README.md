@@ -32,10 +32,10 @@ The focus is on software design, requirements development, testing, and team col
 
 ---
 
-## Team Members
-- Thierry Tuan Tran  
+## Team Members 
 - Chase Post
 - Hoang Nguyen
+- Thierry Tuan Tran 
 - William Miller  
 - Shiloh Parker  
 
