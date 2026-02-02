@@ -1,11 +1,6 @@
 # Manufacturing Monitoring System
 <center> <img src="https://github.com/SmartFactory-Team/Documentation/blob/main/LogoTeam.png"> </center>
 
-## Team Name
-"""Smart Factory Team"""
-
----
-
 ## Project Overview
 This project is a web-based manufacturing monitoring system that simulates a simple production line. The application displays machine statuses, tracks inventory flow, and logs downtime incidents through a dashboard.
 
