@@ -33,11 +33,11 @@ The focus is on software design, requirements development, testing, and team col
 ---
 
 ## Team Members 
-- Chase Post
-- Hoang Nguyen
-- Thierry Tuan Tran 
+- Chase Post [GitHub](https://github.com/chase-post)
+- Hoang Nguyen [GitHub](https://github.com/avancir18-ship-it)
+- Thierry Tuan Tran [GitHub](https://github.com/thierrytuantran)
 - William Miller  
-- Shiloh Parker  
+- Shiloh Parker [GitHub](https://github.com/shiloh-parker)
 
 ---
 
